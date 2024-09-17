@@ -14,3 +14,18 @@
     width: 1000px;
     max-width: 100%;
   }
+
+  /* # Hader */
+  .header-section{
+    line-height: 100px;
+
+  }
+  .logo-image{
+    height: 100px;
+    vertical-align: middle;
+    }
+  
+  .logo-title{
+    display:inline;
+    
+  }
